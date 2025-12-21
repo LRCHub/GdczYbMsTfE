@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "一生に一度愛してるよ",
+  "base_artist": "CreepHyp",
+  "createdAt": "2025-12-21T08:29:13.551765Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一生に一度愛してるよ",
+      "artist": "Creep Hyp",
+      "has_synced": true,
+      "path": "select/01_一生に一度愛してるよ_Creep_Hyp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "一生に一度愛してるよ - Isshouniichido Aishiteruyo",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/02_一生に一度愛してるよ_-_Isshouniichido_Aishiteruyo_CreepHyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一生に一度愛してるよ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_一生に一度愛してるよ_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "一生に一度愛してるよ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_02_一生に一度愛してるよ_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "一生に一度愛してるよ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_03_一生に一度愛してるよ_クリープハイプ.txt"
+    }
+  ]
+}
